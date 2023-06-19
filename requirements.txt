@@ -4,7 +4,7 @@ aiosignal==1.2.0
 alembic==1.7.7
 amqp==5.1.1
 antlr4-python3-runtime==4.9.3
-anyio==3.7.0
+anyio==3.6.2
 appdirs==1.4.4
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
