@@ -19,7 +19,7 @@ aws-sam-cli==1.41.0
 aws-sam-translator==1.42.0
 beautifulsoup4==4.12.2
 billiard==3.6.4.0
-bleach==6.0.0
+bleach==4.1.0
 blinker==1.6.2
 boto3==1.25.4
 botocore==1.28.4
