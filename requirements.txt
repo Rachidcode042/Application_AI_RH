@@ -12,7 +12,7 @@ arrow==1.2.3
 numpy
 async-timeout==4.0.2
 asyncssh==2.13.1
-atpublic==3.1.2
+atpublic==4.0
 attrs==23.1.0
 aws-lambda-builders==1.20.0
 aws-sam-cli==1.61.0
