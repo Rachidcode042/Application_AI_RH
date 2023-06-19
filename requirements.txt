@@ -16,7 +16,7 @@ atpublic==2.3
 attrs==22.2.0
 aws-lambda-builders==1.20.0
 aws-sam-cli==1.41.0
-aws-sam-translator==1.53.0
+aws-sam-translator==1.42.0
 beautifulsoup4==4.12.2
 billiard==3.6.4.0
 bleach==6.0.0
