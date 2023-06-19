@@ -21,6 +21,8 @@ jobs:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
 
         run: |
+          #upgrading pip
+          /usr/bin/python3 -m pip install --upgrade pip
           # Your ML workflow goes here
           pip install -r requirements.txt
           Model_Projet_22052023_Final_V3_Rachid.ipynb
