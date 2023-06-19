@@ -47,7 +47,7 @@ distro==1.8.0
 docker==4.2.2
 docx2txt==0.8
 dpath==2.0.7
-dulwich==0.21.5
+dulwich==0.20.50
 dvc==2.58.2
 dvc-data==0.51.0
 dvc-http==2.30.2
